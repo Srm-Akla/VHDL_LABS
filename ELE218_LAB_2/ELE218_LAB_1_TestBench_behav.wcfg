@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ELE218_LAB_1_TestBench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ELE218_LAB_1_TestBench" />
+            <top_module name="ele218_components" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="882720fs"></ZoomStartTime>
+      <ZoomEndTime time="939921fs"></ZoomEndTime>
+      <Cursor1Time time="463970fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="305"></NameColumnWidth>
+      <ValueColumnWidth column_width="149"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/Data_Bus_tb" type="array">
+      <obj_property name="ElementShortName">Data_Bus_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_Bus_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/Control_Bus_tb" type="array">
+      <obj_property name="ElementShortName">Control_Bus_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Control_Bus_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/Adresse_Bus_tb" type="array">
+      <obj_property name="ElementShortName">Adresse_Bus_tb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Adresse_Bus_tb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/Clk_tb" type="logic">
+      <obj_property name="ElementShortName">Clk_tb</obj_property>
+      <obj_property name="ObjectShortName">Clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/resetn_tb" type="logic">
+      <obj_property name="ElementShortName">resetn_tb</obj_property>
+      <obj_property name="ObjectShortName">resetn_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/M" type="other">
+      <obj_property name="ElementShortName">M</obj_property>
+      <obj_property name="ObjectShortName">M</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/UUT/Reg_R0_Q" type="array">
+      <obj_property name="ElementShortName">Reg_R0_Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_R0_Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/UUT/Reg_R2_Q" type="array">
+      <obj_property name="ElementShortName">Reg_R2_Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_R2_Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/UUT/Reg_R3_Q" type="array">
+      <obj_property name="ElementShortName">Reg_R3_Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_R3_Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ELE218_LAB_1_TestBench/UUT/Alu_F" type="array">
+      <obj_property name="ElementShortName">Alu_F[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Alu_F[7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
